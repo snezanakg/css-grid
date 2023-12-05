@@ -1,0 +1,79 @@
+.body{
+    background-size: cover;
+    margin: 15px;
+  }
+  
+  .container {
+      height: 100vh;
+      display: grid;
+      gap: 5px;
+      width: 210px;
+      grid-template-columns: repeat(3, 1fr);
+      background-color: rgb(12, 12, 12);
+    }
+  
+  .item1 {
+      width: 70px;
+      max-height: 70px;
+      border: 2px solid rgb(10, 10, 10);
+      box-sizing: border-box;
+  }
+  
+  .item2 {
+    width: 70px;
+    max-height: 70px;
+    border: 2px solid rgb(10, 10, 10);
+    box-sizing: border-box;
+    background-color: rgb(29,226,55);
+   
+  }
+  
+  .item3 {
+    width: 70px;
+    max-height: 70px;
+    border: 2px solid rgb(10, 10, 10);
+    box-sizing: border-box;
+    background-color: rgb(231, 237, 232);
+  }
+  .item4 {
+    width: 70px;
+    max-height: 70px;
+    border: 2px solid rgb(10, 10, 10);
+    box-sizing: border-box;
+    background-color:rgb(29,226,55);
+  }
+    .item5 {
+        width: 70px;
+        max-height: 70px;
+        border: 2px solid rgb(10, 10, 10);
+        box-sizing: border-box;
+        background-color: rgb(231, 237, 232);
+    }
+    .item6 {
+        width: 70px;
+        max-height: 70px;
+        border: 2px solid rgb(10, 10, 10);
+        box-sizing: border-box;
+        background-color: rgb(29,226,55);
+    }
+    .item7 {
+        width: 70px;
+        max-height: 70px;
+        border: 2px solid rgb(10, 10, 10);
+        box-sizing: border-box;
+        background-color: rgb(231, 237, 232);
+    }
+    .item8 {
+        width: 70px;
+        max-height: 70px;
+        border: 2px solid rgb(10, 10, 10);
+        box-sizing: border-box;
+        background-color: rgb(29,226,55);
+    }
+    .item9 {
+        width: 70px;
+        max-height: 70px;
+        border: 2px solid rgb(10, 10, 10);
+        box-sizing: border-box;
+        background-color: rgb(231, 237, 232);
+    }
